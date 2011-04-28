@@ -1,0 +1,7 @@
+//
+// Prefix header for all source files of the 'MinecraftInTheCloud' target in the 'MinecraftInTheCloud' project
+//
+
+#ifdef __OBJC__
+    #import <Cocoa/Cocoa.h>
+#endif
