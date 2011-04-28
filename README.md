@@ -4,9 +4,8 @@ Play minecraft in the cloud. Lets you play on the same map with others, and you 
 ### Requirements
 * Minecraft, Cloud (see below)
 
-### Cloud
-Here is a list of clouds that have been thoroughly tested:
-* [Dropbox](http://www.dropbox.com/)
+### Tested Clouds
+* [Dropbox](http://www.dropbox.com/) (Thoroughly tested)
 
 
 ### How to Use
