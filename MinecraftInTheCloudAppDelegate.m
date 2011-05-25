@@ -125,8 +125,8 @@
 	[window setDelegate:self];
 }
 
-- (void)windowWillClose:(NSNotification *)aNotification {
-	[NSApp terminate:self];
+- (BOOL)applicationShouldTerminateAfterLastWindowClosed:(NSApplication *)sender {
+	return YES;
 }
 
 @end
